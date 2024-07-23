@@ -1,0 +1,22 @@
+[
+    {
+        "Codigo": "5124231415",
+        "Nombre": "Rodrigo Lopez",
+        "Asistencia": false
+    },
+    {
+        "Codigo": "142357289174231",
+        "Nombre": "Luis Vega",
+        "Asistencia": true
+    },
+    {
+        "Codigo": "12341241235",
+        "Nombre": "Juan Perez",
+        "Asistencia": false
+    },
+    {
+        "Codigo": "98765434567",
+        "Nombre": "Carlos Rivera",
+        "Asistencia": false
+    }
+]
